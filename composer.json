@@ -1,0 +1,21 @@
+{
+    "name": "nambinina2/skeleton",
+    "description": "skeleton for mini-projet",
+    "type": "project",
+    "license": "open source",
+    "authors": [
+        {
+            "name": "nambinina",
+            "email": "harinjatovo.fetra@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+          "App\\":"src/"
+      }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2"
+    }
+}
